@@ -22,7 +22,6 @@ Pull requests and issues with suggestions are welcome! Please read the
     - [Courses](#courses)
     - [Blogs](#blogs)
     - [Websites](#websites)
-    - [Newsletters](#newsletters)
     - [Conferences](#conferences)
     - [Who to Follow](#who-to-follow)
     - [Podcasts and Episodes](#podcasts-and-episodes)
