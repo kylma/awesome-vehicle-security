@@ -24,9 +24,6 @@ Pull requests and issues with suggestions are welcome! Please read the
     - [Communities](#communities)
     - [Conferences](#conferences)
     - [Who to Follow](#who-to-follow)
-    - [Podcasts and Episodes](#podcasts-and-episodes)
-        - [Podcasts](#podcasts)
-        - [Episodes](#episodes)
     - [Miscellaneous](#miscellaneous)
 - [Projects](#projects)
 - [Hardware](#hardware)
@@ -162,22 +159,6 @@ CAN Bus Signal Injection Attacks](https://dl.acm.org/citation.cfm?id=3064816)
     - [Twitter](https://twitter.com/mintynet)
     - [Website](https://www.mintynet.com/)
 
-## Podcasts and Episodes
-
-Podcasts and podcast episodes, that either directly focus on vehicle security or have some episodes on it.
-
-### Podcasts
-- [Security Weekly](http://securityweekly.com/) - Excellent podcast covering all ranges of security, with some episodes focusing portions on vehicle security from cars to drones.
-- [TrustedSec Podcast](https://www.trustedsec.com/podcasts/) - From the people at TrustedSec, leaders in Social Engineering, their episodes often go into recent vehicle vulnerabilities and exploits.
-- [SANS Internet Storm Center](https://isc.sans.edu/) - the ISC run a regular podcast going into the latest vulnerabilities and security news.
-- [Security Ledger](https://soundcloud.com/securityledger) - A podcast focusing on interviewing security experts about topics related to security.
-
-### Episodes
-- [Car Hacking with Craig Smith](http://softwareengineeringdaily.com/2015/09/02/car-hacking-with-craig-smith/) - Software Engineering Daily did an amazing episode with Craig Smith, author of the Car Hacking Handbook (above), on hacking into vehicles.
-- [Big Bugs Podcast Episode 1: Auto Bugs - Critical Vulns found in Cars with Jason Haddix](https://blog.bugcrowd.com/big-bugs-podcast-episode-1) - Jason Haddix explores major vulnerabilities found in cars.
-- [Hacking Under the Hood and Into Your Car](http://www.npr.org/2013/08/02/208270026/hacking-under-the-hood-and-into-your-car) - Chris Valasek and Charlie Miller discuss with NPR how they were able to hack into vehicles.
-- [Hacking Connected Vehicles with Chris Valasek of IOActive](https://soundcloud.com/securityledger/chris-valasek-of-ioactive) - Chris Valasek talks about hacking into connected vehicles.
-- [Hackable? - Cars are Computers](https://hackablepodcast.com/#/episodes/cars-are-computers) - Geoff Siskind paired up with Craig Smith, author of The Car Hacker’s Handbook, to show us just how easy – or not – it is to hack a car.
 
 ## Miscellaneous
 - [Reverse Engineering Resources](https://github.com/ps1337/automotive-security-research)
