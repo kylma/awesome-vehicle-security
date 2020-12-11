@@ -21,7 +21,7 @@ Pull requests and issues with suggestions are welcome! Please read the
     - [Research Papers](#research-papers)
     - [Courses](#courses)
     - [Blogs](#blogs)
-    - [Websites](#websites)
+    - [Communities](#communities)
     - [Conferences](#conferences)
     - [Who to Follow](#who-to-follow)
     - [Podcasts and Episodes](#podcasts-and-episodes)
@@ -118,12 +118,10 @@ CAN Bus Signal Injection Attacks](https://dl.acm.org/citation.cfm?id=3064816)
 
 - [Keen Security Lab Blog](http://keenlab.tencent.com/en/) - Blog created by Keen Security Lab of Tencent that posts research on car security.
 
-## Websites
+## Communities
 
 - [OpenGarages](http://opengarages.org/index.php/Main_Page) - Provides public access, documentation and tools necessary to understand today's modern vehicle systems.
 - [DEFCON Car Hacking Village](https://www.carhackingvillage.com/) - Car Hacking exercises from DEFCON 24.
-- [OWASP Internet of Things Project](https://www.owasp.org/index.php/OWASP_Internet_of_Things_Project#tab=Community) - OWASP's project to secure IoT, from cars to medical devices and beyond.
-- [I Am The Cavalry](https://www.iamthecavalry.org/) - Global grassroots (eg. volunteer) initiative focused on the intersection of security and human life/public safety issues, such as cars. Participation from security researchers, OEMs, Tier 1s, and many others. Published [Automotive 5-Star Cyber Safety Framework](https://iamthecavalry.org/5star).
 - [Carloop Community](https://community.carloop.io/) - Community of people interested in car hacking and connecting vehicles to the cloud.
 
 
