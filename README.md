@@ -85,12 +85,11 @@ Pull requests and issues with suggestions are welcome! Please read the
 
 ## Books
 
-- [The Car Hacker's Handbook: A Guide for the Penetration Tester](http://opengarages.org/handbook/) - The complete book is free to [read online](http://opengarages.org/handbook/ebook/). For a physical copy and DRM-free ebooks (PDF, MOBI, EPUB), purchase it from [No Starch Press](https://www.nostarch.com/carhacking).
-- [A Comprehensible Guide to Controller Area Network](http://www.copperhilltechnologies.com/online-books/a-comprehensible-guide-to-controller-area-network/) - An older book from 2005, but still a comprehensive guide on CAN buses and networking in vehicles.
-- [Controller Area Network Prototyping with Arduino](https://copperhilltech.com/controller-area-network-prototyping-with-arduino/) - This book guides you through prototyping CAN applications on Arduinos, which can help when working with CAN on your own car. The book has been discontinued but is free to [read online](https://copperhilltech.com/controller-area-network-can-bus-prototyping-with-the-arduino-uno/).
-- [Embedded Networking with CAN and CANopen](https://www.canopenbook.com/) - From 2003, this book fills in gaps in CAN literature and will educate you further on CAN networks and working with embedded systems.
-- [Hacking Connected Cars: Tactics, Techniques, and
-Procedures](https://www.wiley.com/en-us/Hacking+Connected+Cars%3A+Tactics%2C+Techniques%2C+and+Procedures-p-9781119491736) - This book discusses penetration testing, threat modeling and risk assesments of telematics control units and infotainment systems, in particular vulnerabilities in wireless networking, Bluetooth and GSM.
+- 2020, [Hacking Connected Cars: Tactics, Techniques, and
+Procedures](https://www.wiley.com/en-us/Hacking+Connected+Cars%3A+Tactics%2C+Techniques%2C+and+Procedures-p-9781119491736) by Alissa Knight - This book discusses penetration testing, threat modeling and risk assesments of telematics control units and infotainment systems, in particular vulnerabilities in wireless networking, Bluetooth and GSM.
+- 2016, [The Car Hacker's Handbook: A Guide for the Penetration Tester](http://opengarages.org/handbook/) by Craig Smith - The complete book is free to [read online](http://opengarages.org/handbook/ebook/). For a physical copy and DRM-free ebooks (PDF, MOBI, EPUB), purchase it from [No Starch Press](https://www.nostarch.com/carhacking).
+- 2005, [A Comprehensible Guide to Controller Area Network](http://www.copperhilltechnologies.com/online-books/a-comprehensible-guide-to-controller-area-network/) by Wilfried Voss - This book gives a good overview of the CAN bus and network.
+- 2004, [Controller Area Network Prototyping with Arduino](https://copperhilltech.com/controller-area-network-prototyping-with-arduino/) by Wilfried Voss - This book guides you through prototyping CAN applications on Arduinos. The book has been discontinued but is free to [read online](https://copperhilltech.com/controller-area-network-can-bus-prototyping-with-the-arduino-uno/).
 
 ## Research Papers
 
