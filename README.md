@@ -37,8 +37,6 @@ Pull requests and issues with suggestions are welcome! Please read the
     - [Python](#python)
     - [Go](#go)
     - [JavaScript](#javascript)
-- [Companies and Jobs](#companies-and-jobs)
-    - [Coordinated Disclosure](#coordinated-disclosure)
 - [Other Awesome Lists](#other-awesome-lists)
 - [Contributing](#contributing)
 
@@ -291,23 +289,6 @@ Libraries and tools that don't fall under the larger class of applications above
 ### JavaScript
 
 - [NodeJS extension to SocketCAN](https://github.com/sebi2k1/node-can) - Allows you to communicate over CAN networks with simple JavaScript functions.
-
-# Companies and Jobs
-
-Companies and job opportunities in the vehicle security field.
-
-- [UberATC](https://www.uberatc.com/) - Uber Advanced Technologies Center - <info@uberatc.com>.
-- [Tesla](https://www.tesla.com/careers/search#/filter/?keyword=security&department=1) - Tesla hires security professionals for a variety of roles, particularly securing their vehicles.
-- [Intrepid Control Systems](https://www.intrepidcs.com/jobs/) - Embedded security company building tools for reversing vehicles.
-- [Rapid7](https://www.rapid7.com/company/careers.jsp) - Rapid7 does work in information, computer, and embedded security.
-- [IOActive](http://www.ioactive.com/) - Security consulting firm that does work on pentesting hardware and embedded systems.
-
-## Coordinated disclosure
-
-- [General Motors](https://hackerone.com/gm) on HackerOne - Coordinated disclosure submissions accepted
-- [Fiat Chrysler Automobiles](https://bugcrowd.com/fca) on Bugcrowd - Coordinated disclosure submissions accepted, paid bounties offered
-- [Tesla Motors](https://bugcrowd.com/tesla) on Bugcrowd - Coordinated disclosure submissions accepted, paid bounties offered
-
 
 # Other Awesome Lists
 
