@@ -104,7 +104,6 @@ Procedures](https://www.wiley.com/en-us/Hacking+Connected+Cars%3A+Tactics%2C+Tec
   - [A Survey of Remote Automotive Attack Surfaces, 2014](http://illmatics.com/remote%20attack%20surfaces.pdf)
   - [Remote Compromise of an Unaltered Passenger Vehicle (aka The Jeep Hack), 2015](http://illmatics.com/Remote%20Car%20Hacking.pdf)
   - [Advanced CAN Message Injection, 2016](http://illmatics.com/can%20message%20injection.pdf)
-- [5-Star Automotive Cyber Safety Framework, 2015](https://iamthecavalry.org/5star)
 - [A Vulnerability in Modern Automotive Standards and How We Exploited It](https://documents.trendmicro.com/assets/A-Vulnerability-in-Modern-Automotive-Standards-and-How-We-Exploited-It.pdf)
 - [A Car Hacking Experiment: When Connectivity Meets Vulnerability](https://ieeexplore.ieee.org/abstract/document/7413993/)
 - [Security issues and vulnerabilities in connected car systems](https://ieeexplore.ieee.org/abstract/document/7223297/)
